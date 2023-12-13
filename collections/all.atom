@@ -1,0 +1,1414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://weclothx.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://weclothx.myshopify.com/collections/all.atom"/>
+  <title>CLOTH X</title>
+  <updated>2023-10-13T13:47:18+05:30</updated>
+  <author>
+    <name>CLOTH X</name>
+  </author>
+  <entry>
+    <id>https://weclothx.myshopify.com/products/8825352814878</id>
+    <published>2023-10-13T13:47:18+05:30</published>
+    <updated>2023-10-13T13:47:18+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/women-printed-round-neck-pure-cotton-black-t-shirt"/>
+    <title>Women Printed Round Neck Pure Cotton Black T-Shirt</title>
+    <s:type>T SHIRTS</s:type>
+    <s:vendor>CLOTH X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0837/7031/0942/files/xl-rzw01blackprint-rodzen-original-imagmptnzzgha3w3.webp?v=1697185041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLOTH X<br>
+        <strong>Type: </strong>T SHIRTS<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">This Women Printed Round Neck Pure Cotton Black T-Shirt is crafted from 100% pure cotton for comfort and long-lasting use. It is designed with a round neck and printed graphics for a stylish look. This versatile T-shirt is a must-have for any wardrobe.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TSHIRT</s:tag>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8825352814878</id>
+      <title>S</title>
+      <s:price currency="INR">599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8825352814878</id>
+      <title>M</title>
+      <s:price currency="INR">599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8825352814878</id>
+      <title>L</title>
+      <s:price currency="INR">599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8825352814878</id>
+      <title>XL</title>
+      <s:price currency="INR">599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weclothx.myshopify.com/products/8825215484190</id>
+    <published>2023-10-13T12:56:25+05:30</published>
+    <updated>2023-10-13T12:56:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/metronaut-solid-men-polo-neck-cotton-blend-blue-t-shirt"/>
+    <title>METRONAUT (Solid Men Polo Neck Cotton Blend Blue T-Shirt)</title>
+    <s:type>T SHIRTS</s:type>
+    <s:vendor>CLOTH X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0837/7031/0942/files/s-mp-lblue-metronaut-original-imageg8cfghmdkte.webp?v=1697181988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLOTH X<br>
+        <strong>Type: </strong>T SHIRTS<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong><strong>﻿</strong></strong>
+<p>The METRONAUT Solid Men Polo Neck T-Shirt is made from a comfortable cotton blend to provide a relaxed fit. The solid blue colour is easy to pair with an outfit for any occassion.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>T</s:tag>
+    <s:tag>T SHIRT</s:tag>
+    <s:tag>TSHIRT</s:tag>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8825215484190</id>
+      <title>S</title>
+      <s:price currency="INR">599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8825215484190</id>
+      <title>M</title>
+      <s:price currency="INR">599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8825215484190</id>
+      <title>L</title>
+      <s:price currency="INR">599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8825215484190</id>
+      <title>XL</title>
+      <s:price currency="INR">599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weclothx.myshopify.com/products/8825123799326</id>
+    <published>2023-10-13T12:13:28+05:30</published>
+    <updated>2023-10-13T12:13:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/metronaut-typography-men-round-neck-cotton-blend-black-t-shirt-2"/>
+    <title>METRONAUT  (Typography Men Round Neck Cotton Blend Black T-Shirt)</title>
+    <s:type>T SHIRTS</s:type>
+    <s:vendor>CLOTH X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0837/7031/0942/files/s-mt-scratch-black-hs-metronaut-original-imagzghdn8z5pdua.webp?v=1697179409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLOTH X<br>
+        <strong>Type: </strong>T SHIRTS<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong><strong>﻿</strong></strong>
+<p>The METRONAUT T-shirt is crafted from a combination of cotton and polyester for a soft, breathable feel. The round neck cut provides maximum comfort and mobility, while the black color allows for easy styling with any outfit. The shirt is lightweight and designed for all-day wearability.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>T</s:tag>
+    <s:tag>T SHIRT</s:tag>
+    <s:tag>TSHIRT</s:tag>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8825123799326</id>
+      <title>XL</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weclothx.myshopify.com/products/8825116000542</id>
+    <published>2023-10-13T12:05:40+05:30</published>
+    <updated>2023-10-13T12:05:40+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/metronaut-typography-men-round-neck-cotton-blend-black-t-shirt-1"/>
+    <title>METRONAUT  (Typography Men Round Neck Cotton Blend Black T-Shirt)</title>
+    <s:type>T SHIRTS</s:type>
+    <s:vendor>CLOTH X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0837/7031/0942/files/xl-mt-beststyle-black-hs-metronaut-original-imagtvt6hdjayemf.webp?v=1697178942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLOTH X<br>
+        <strong>Type: </strong>T SHIRTS<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong><em>METRONAUT T-Shirt is made from a soft and durable cotton blend fabric, which keeps you comfortable all day. Ideal for everyday activities, this black T-shirt sports an eye-catching Best METRONAUT graphic print. Its classic round neck and short sleeves make it suitable for all occasions.</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>T</s:tag>
+    <s:tag>T SHIRT</s:tag>
+    <s:tag>TSHIRT</s:tag>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8825116000542</id>
+      <title>M</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8825116000542</id>
+      <title>L</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8825116000542</id>
+      <title>XL</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weclothx.myshopify.com/products/8825087295774</id>
+    <published>2023-10-13T11:46:19+05:30</published>
+    <updated>2023-10-13T11:46:19+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/metronaut-typography-men-round-neck-cotton-blend-black-t-shirt"/>
+    <title>METRONAUT  (Typography Men Round Neck Cotton Blend Black T-Shirt)</title>
+    <s:type>T SHIRTS</s:type>
+    <s:vendor>CLOTH X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0837/7031/0942/files/l-mt-nevergiveup-black-hs-metronaut-original-imagzghdxwfrhjnz.webp?v=1697177781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLOTH X<br>
+        <strong>Type: </strong>T SHIRTS<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>METRONAUT t-shirt is made from a soft cotton blend that combines the breathability of organic cotton with the durability of polyester. This blend offers superior comfort and lasting performance. It's perfect for everyday wear.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>T</s:tag>
+    <s:tag>T SHIRT</s:tag>
+    <s:tag>TSHIRT</s:tag>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8825087295774</id>
+      <title>M</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8825087295774</id>
+      <title>L</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weclothx.myshopify.com/products/8825072451870</id>
+    <published>2023-10-13T11:37:31+05:30</published>
+    <updated>2023-10-13T11:37:31+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/u-s-polo-assn-denim-co-men-typography-round-neck-pure-cotton-blue-t-shirt"/>
+    <title>U.S. Polo Assn. Denim Co. (Men Typography Round Neck Pure Cotton Blue T-Shirt)</title>
+    <s:type>T SHIRTS</s:type>
+    <s:vendor>CLOTH X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0837/7031/0942/files/m-udtshs0434-u-s-polo-assn-denim-co-original-imagsynkdhgfvbgm.webp?v=1697177254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLOTH X<br>
+        <strong>Type: </strong>T SHIRTS<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="col col-3-12 _2H87wv" data-mce-fragment="1"><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>T</s:tag>
+    <s:tag>T SHIRT</s:tag>
+    <s:tag>TSHIRT</s:tag>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8825072451870</id>
+      <title>S</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8825072451870</id>
+      <title>M</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8825072451870</id>
+      <title>L</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8825072451870</id>
+      <title>XL</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weclothx.myshopify.com/products/8806937985310</id>
+    <published>2023-10-04T13:07:51+05:30</published>
+    <updated>2023-10-04T13:07:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/fearless-hoodies-unisex-hoodies"/>
+    <title>FEARLESS HOODIES || UNISEX HOODIES ||</title>
+    <s:type>HOODIES</s:type>
+    <s:vendor>CLOTH X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0837/7031/0942/files/517azBupnBL._SX425._SX._UX._SY._UY.jpg?v=1696405074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLOTH X<br>
+        <strong>Type: </strong>HOODIES<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini" data-mce-fragment="1">
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Care Instructions: Machine Wash</span></li>
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Fit Type: Regular</span></li>
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Wash Care : Do Not Bleach, Wash it with similar colours, Machine or Hand wash cold, Dry in Shade.</span></li>
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Fit Type : Regular Fit, Full Sleeves Hoodie</span></li>
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Colour : Black Hoodie, Fabric : 100% Pure Cotton Hoodie (Eco Friendly)</span></li>
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Style Point : Hoodies gives a trendy yet Casual look. Durable fabric, stitching and Quality finish makes this Product a must have this Winter.</span></li>
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Occasion: Gym wear, Winter wear or wear it during cold evening to keep your body warm. Please refer to the "size chart" to select your size</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HOO</s:tag>
+    <s:tag>HOOD</s:tag>
+    <s:tag>HOODIES</s:tag>
+    <s:tag>HUDIE</s:tag>
+    <s:tag>HUDIES</s:tag>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806937985310</id>
+      <title>S</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806937985310</id>
+      <title>M</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806937985310</id>
+      <title>L</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806937985310</id>
+      <title>XL</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weclothx.myshopify.com/products/8806928941342</id>
+    <published>2023-10-04T13:04:15+05:30</published>
+    <updated>2023-10-04T13:04:15+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/veirdo%C2%AE-oversized-baggy-fit-comfortable-pure-cotton-round-neck-t-shirt-with-originals-frog-print-collection-tee-for-men-boys-swan-white-mint-green"/>
+    <title>Veirdo® Oversized Baggy Fit Comfortable Pure Cotton Round Neck T-Shirt with Originals Frog Print Collection Tee for Men &amp; Boys (Swan White &amp; Mint Green)</title>
+    <s:type>T SHIRTS</s:type>
+    <s:vendor>CLOTH X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0837/7031/0942/files/61MPGbBpC3L._UL1500.jpg?v=1696404857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLOTH X<br>
+        <strong>Type: </strong>T SHIRTS<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong><strong>﻿</strong></strong>
+<h1 class="a-size-base-plus a-text-bold">About this item</h1>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li class="a-spacing-mini"><span class="a-list-item">Care Instructions: Hand Wash Only</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">Fit Type: Oversized Fit</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">Veirdo Oversized Baggy Fit Cotton T-Shirt with Graphical Frog and ""Originals"" Chest Print.</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">Made from pure cotton for maximum comfort and breathability.</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">Trendy and fashionable oversized fit for a unique and stylish look.</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">Round neck design adds a classic and versatile touch.</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">Eye-catching graphical frog print on the chest adds a playful and fun element.</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">Suitable for both casual and semi-formal occasions.﻿</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>T</s:tag>
+    <s:tag>T SHIRT</s:tag>
+    <s:tag>TSHIRT</s:tag>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806928941342</id>
+      <title>S</title>
+      <s:price currency="INR">799.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806928941342</id>
+      <title>M</title>
+      <s:price currency="INR">799.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806928941342</id>
+      <title>L</title>
+      <s:price currency="INR">799.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806928941342</id>
+      <title>XL</title>
+      <s:price currency="INR">799.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weclothx.myshopify.com/products/8806923206942</id>
+    <published>2023-10-04T13:01:19+05:30</published>
+    <updated>2023-10-04T13:01:19+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/los-angeles-hoodies-sweatshirt-for-unisex-unisex-hoodie"/>
+    <title>LOS ANGELES Hoodies ||Sweatshirt for Unisex || Unisex Hoodie</title>
+    <s:type>HOODIES</s:type>
+    <s:vendor>CLOTH X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0837/7031/0942/files/71lBPl8geCL._UY741.jpg?v=1696404683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLOTH X<br>
+        <strong>Type: </strong>HOODIES<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini" data-mce-fragment="1">
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Care Instructions: Machine Wash</span></li>
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Fit Type: Regular</span></li>
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Women Hoodies || sweatshirt for Unisex || Unisex Hoodie</span></li>
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Actual Products color may vary with product due to monitor settings</span></li>
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Wash care: machine wash cold, tumble dry low, do not bleach. Check our size chart to get your best fit</span></li>
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Fit Type: Regular Fit</span></li>
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Printed Hoodies</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HOO</s:tag>
+    <s:tag>HOOD</s:tag>
+    <s:tag>HOODIES</s:tag>
+    <s:tag>HUDIE</s:tag>
+    <s:tag>HUDIES</s:tag>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806923206942</id>
+      <title>S</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806923206942</id>
+      <title>M</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806923206942</id>
+      <title>L</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806923206942</id>
+      <title>XL</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806923206942</id>
+      <title>XXL</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weclothx.myshopify.com/products/8806908002590</id>
+    <published>2023-10-04T12:54:21+05:30</published>
+    <updated>2023-10-04T12:54:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/men-printed-hooded-neck-cotton-blend-white-black-t-shirt"/>
+    <title>Men Printed Hooded Neck Cotton Blend White, Black T-Shirt</title>
+    <s:type>HOODIES</s:type>
+    <s:vendor>CLOTH X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0837/7031/0942/files/l-jc22-hd-fs-black-jmc-pckt-jump-cuts-original-imagg3yxfk48y7nt.webp?v=1696404263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLOTH X<br>
+        <strong>Type: </strong>HOODIES<br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="row" data-mce-fragment="1">
+<div class="col col-3-12 _2H87wv" data-mce-fragment="1">Type : Hooded Neck</div>
+</div>
+<div class="row" data-mce-fragment="1">
+<div class="col col-3-12 _2H87wv" data-mce-fragment="1">Sleeve : Full Sleeve</div>
+</div>
+<div class="row" data-mce-fragment="1">
+<div class="col col-3-12 _2H87wv" data-mce-fragment="1">Fit : Slim</div>
+</div>
+<div class="row" data-mce-fragment="1">
+<div class="col col-3-12 _2H87wv" data-mce-fragment="1">Fabric : Cotton Blend</div>
+</div>
+<div class="row" data-mce-fragment="1">
+<div class="col col-3-12 _2H87wv" data-mce-fragment="1">Sales Package :1 Men's Cotton Blend Tshirt</div>
+</div>
+<div class="row" data-mce-fragment="1">
+<div class="col col-3-12 _2H87wv" data-mce-fragment="1">Pack of : 1</div>
+</div>
+<div class="row" data-mce-fragment="1">
+<div class="col col-3-12 _2H87wv" data-mce-fragment="1"></div>
+</div>
+<div class="row" data-mce-fragment="1">
+<div class="col col-3-12 _2H87wv" data-mce-fragment="1">Neck Type : Hooded Neck</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HOO</s:tag>
+    <s:tag>HOOD</s:tag>
+    <s:tag>HOODIES</s:tag>
+    <s:tag>HUDIE</s:tag>
+    <s:tag>HUDIES</s:tag>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806908002590</id>
+      <title>S</title>
+      <s:price currency="INR">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806908002590</id>
+      <title>M</title>
+      <s:price currency="INR">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806908002590</id>
+      <title>L</title>
+      <s:price currency="INR">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806908002590</id>
+      <title>XL</title>
+      <s:price currency="INR">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weclothx.myshopify.com/products/8806885425438</id>
+    <published>2023-10-04T12:40:45+05:30</published>
+    <updated>2023-10-04T12:40:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/tokyo-t-shirt"/>
+    <title>Tokyo T-Shirt</title>
+    <s:type>T SHIRTS</s:type>
+    <s:vendor>CLOTH X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0837/7031/0942/files/xl-urm008941p-urgear-original-imagnffksyvggtfh.webp?v=1696403447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLOTH X<br>
+        <strong>Type: </strong>T SHIRTS<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="row" data-mce-fragment="1">
+<div class="col col-3-12 _2H87wv" data-mce-fragment="1">Type - Round Neck</div>
+</div>
+<div class="row" data-mce-fragment="1">
+<div class="row">
+<div class="col col-3-12 _2H87wv">Sleeve - Half Sleeve</div>
+</div>
+<div class="row">
+<div class="col col-3-12 _2H87wv">Fit - Regular</div>
+</div>
+<div class="row">
+<div class="col col-3-12 _2H87wv">Fabric - Pure Cotton</div>
+<div class="col col-3-12 _2H87wv">
+<div class="col col-3-12 _2H87wv">Pack of - 1</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>T</s:tag>
+    <s:tag>T SHIRT</s:tag>
+    <s:tag>TSHIRT</s:tag>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806885425438</id>
+      <title>S / Green</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku>10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806885425438</id>
+      <title>S / Navy Blue</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806885425438</id>
+      <title>M / Green</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806885425438</id>
+      <title>M / Navy Blue</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806885425438</id>
+      <title>L / Green</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806885425438</id>
+      <title>L / Navy Blue</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806885425438</id>
+      <title>XL / Green</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806885425438</id>
+      <title>XL / Navy Blue</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weclothx.myshopify.com/products/8806882869534</id>
+    <published>2023-10-04T12:39:08+05:30</published>
+    <updated>2023-10-04T12:39:08+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/crazymonk-tokyo-revengers-tokyo-manji-uniform-unisex-anime-hoodie"/>
+    <title>crazymonk Tokyo Revengers Tokyo Manji Uniform Unisex Anime Hoodie</title>
+    <s:type>HOODIES</s:type>
+    <s:vendor>CLOTH X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0837/7031/0942/files/71x6oFR4vPL._UY550.jpg?v=1696403350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLOTH X<br>
+        <strong>Type: </strong>HOODIES<br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Care Instructions: Machine WasH</span></p>
+<div class="" id="detailBullets_feature_div">
+<ul class="a-unordered-list a-nostyle a-vertical a-spacing-none detail-bullet-list">
+<li><span class="a-list-item"><span class="a-text-bold">Item part number ‏ : ‎<span> </span></span><span>tokyo-hood-001</span></span></li>
+<li><span class="a-list-item"><span class="a-text-bold">Country of Origin ‏ : ‎<span> </span></span><span>India</span></span></li>
+<li><span class="a-list-item"><span class="a-text-bold">Department ‏ : ‎<span> </span></span><span>Unisex-adult</span></span></li>
+<li><span class="a-list-item"><span class="a-text-bold">Net Quantity ‏ : ‎<span> </span></span><span>1.00 count</span></span></li>
+</ul>
+</div>
+<ul class="a-unordered-list a-nostyle a-vertical a-spacing-none detail-bullet-list">
+<li><span class="a-list-item"><span class="a-text-bold">Best Sellers Rank:<span> </span></span>#11,544 in Clothing &amp; Accessories</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HOO</s:tag>
+    <s:tag>HOOD</s:tag>
+    <s:tag>HOODIES</s:tag>
+    <s:tag>HUDIE</s:tag>
+    <s:tag>HUDIES</s:tag>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806882869534</id>
+      <title>S</title>
+      <s:price currency="INR">1500.00</s:price>
+      <s:sku>10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806882869534</id>
+      <title>M</title>
+      <s:price currency="INR">1500.00</s:price>
+      <s:sku>11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806882869534</id>
+      <title>L</title>
+      <s:price currency="INR">1500.00</s:price>
+      <s:sku>12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806882869534</id>
+      <title>XL</title>
+      <s:price currency="INR">1500.00</s:price>
+      <s:sku>13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8806882869534</id>
+      <title>XXL</title>
+      <s:price currency="INR">1500.00</s:price>
+      <s:sku>14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weclothx.myshopify.com/products/8805534761246</id>
+    <published>2023-10-04T00:23:47+05:30</published>
+    <updated>2023-10-04T00:23:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/fubura-men-loose-fit"/>
+    <title>Fubura Men Loose Fit</title>
+    <s:type>T SHIRTS</s:type>
+    <s:vendor>CLOTH X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0837/7031/0942/files/71f04Q25pzL._SY550._SX._UX._SY._UY.jpg?v=1696359537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLOTH X<br>
+        <strong>Type: </strong>T SHIRTS<br>
+        <strong>Price: </strong>
+            600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>T</s:tag>
+    <s:tag>T SHIRT</s:tag>
+    <s:tag>TSHIRT</s:tag>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8805534761246</id>
+      <title>white</title>
+      <s:price currency="INR">600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8805534761246</id>
+      <title>skin</title>
+      <s:price currency="INR">600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8805534761246</id>
+      <title>yellow</title>
+      <s:price currency="INR">600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8805534761246</id>
+      <title>rust</title>
+      <s:price currency="INR">600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weclothx.myshopify.com/products/8805420925214</id>
+    <published>2023-10-03T23:48:21+05:30</published>
+    <updated>2023-10-03T23:48:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/leotude-half-sleeve-oversized-tshirt-for-men"/>
+    <title>LEOTUDE Half Sleeve Oversized Tshirt for Men</title>
+    <s:type>T SHIRTS</s:type>
+    <s:vendor>CLOTH X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0837/7031/0942/files/61vx2ZXn-uL._UY550.jpg?v=1696357104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLOTH X<br>
+        <strong>Type: </strong>T SHIRTS<br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="a-size-large a-spacing-none" data-mce-fragment="1"><span id="productTitle" class="a-size-large product-title-word-break" data-mce-fragment="1"><span data-mce-fragment="1"> </span>Round Neck Longline Drop Shoulder | Colorful Dragon Printed T-Shirt </span></h1>
+<h1 class="a-size-large a-spacing-none" data-mce-fragment="1"><span id="productTitle" class="a-size-large product-title-word-break" data-mce-fragment="1">(Color Purple)</span></h1>
+<h1 class="a-size-base-plus a-text-bold">About this item</h1>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li class="a-spacing-mini"><span class="a-list-item">Care Instructions: Hand Wash Only</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">Fit Type: Oversized Fit</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">Pattern: Dragon Printed</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">Fabric: Cotton Blend</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">Color: Purple</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">Sleeve Type: Half Sleeve | Drop Shoulder</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">Fit: Oversized</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>T</s:tag>
+    <s:tag>T SHIRT</s:tag>
+    <s:tag>TSHIRT</s:tag>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8805420925214</id>
+      <title>S</title>
+      <s:price currency="INR">400.00</s:price>
+      <s:sku>0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8805420925214</id>
+      <title>M</title>
+      <s:price currency="INR">400.00</s:price>
+      <s:sku>0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8805420925214</id>
+      <title>L</title>
+      <s:price currency="INR">400.00</s:price>
+      <s:sku>0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8805420925214</id>
+      <title>XL</title>
+      <s:price currency="INR">400.00</s:price>
+      <s:sku>0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8805420925214</id>
+      <title>XXL</title>
+      <s:price currency="INR">400.00</s:price>
+      <s:sku>0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weclothx.myshopify.com/products/8803706962206</id>
+    <published>2023-10-03T13:35:27+05:30</published>
+    <updated>2023-10-03T13:35:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/tenebrose-anime-t-shirt"/>
+    <title>Tenebrose Anime T Shirt</title>
+    <s:type>T SHIRTS</s:type>
+    <s:vendor>CLOTH X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0837/7031/0942/files/7114uGhcy0L._UX679.jpg?v=1696320331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLOTH X<br>
+        <strong>Type: </strong>T SHIRTS<br>
+        <strong>Price: </strong>
+            800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ANIME</s:tag>
+    <s:tag>T SHIRT</s:tag>
+    <s:tag>TSHIRT</s:tag>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803706962206</id>
+      <title>S</title>
+      <s:price currency="INR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803706962206</id>
+      <title>M</title>
+      <s:price currency="INR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803706962206</id>
+      <title>L</title>
+      <s:price currency="INR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803706962206</id>
+      <title>XL</title>
+      <s:price currency="INR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weclothx.myshopify.com/products/8803629629726</id>
+    <published>2023-10-03T12:54:51+05:30</published>
+    <updated>2023-10-03T12:54:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/clothx-gift-card"/>
+    <title>CLOTHX GIFT CARD</title>
+    <s:type></s:type>
+    <s:vendor>CLOTH X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0837/7031/0942/files/20230930_053901_0000_667ae55a-175f-4454-9e13-914fcb3fba6b.png?v=1696319002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLOTH X<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            100.00 - 1000.00
+            <a href="https://weclothx.myshopify.com/products/clothx-gift-card">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803629629726</id>
+      <title>₹100.00</title>
+      <s:price currency="INR">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803629629726</id>
+      <title>₹250.00</title>
+      <s:price currency="INR">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803629629726</id>
+      <title>₹500.00</title>
+      <s:price currency="INR">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803629629726</id>
+      <title>₹1,000.00</title>
+      <s:price currency="INR">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weclothx.myshopify.com/products/8803559112990</id>
+    <published>2023-10-03T12:15:21+05:30</published>
+    <updated>2023-10-03T12:15:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/t-shirts"/>
+    <title>T SHIRTS</title>
+    <s:type>T SHIRTS</s:type>
+    <s:vendor>CLOTH X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0837/7031/0942/files/m-1jgrh-x-boy-blk-jugular-original-imagmfx7uzgypq2j.webp?v=1696316530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLOTH X<br>
+        <strong>Type: </strong>T SHIRTS<br>
+        <strong>Price: </strong>
+            299.00 - 399.00
+            <a href="https://weclothx.myshopify.com/products/t-shirts">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>T</s:tag>
+    <s:tag>T SHIRT</s:tag>
+    <s:tag>TSHIRT</s:tag>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>MY HERO ACADEMIA / S</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>MY HERO ACADEMIA / M</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>MY HERO ACADEMIA / L</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>MY HERO ACADEMIA / XL</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>NARUTO / S</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>NARUTO / M</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>NARUTO / L</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>NARUTO / XL</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>GOKU / S</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>GOKU / M</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>GOKU / L</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>GOKU / XL</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>NARUTO DUEL FACE / S</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>NARUTO DUEL FACE / M</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>NARUTO DUEL FACE / L</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>NARUTO DUEL FACE / XL</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>VENOM / S</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>VENOM / M</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>VENOM / L</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>VENOM / XL</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>ATTACK ON TITAN / S</title>
+      <s:price currency="INR">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>ATTACK ON TITAN / M</title>
+      <s:price currency="INR">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>ATTACK ON TITAN / L</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803559112990</id>
+      <title>ATTACK ON TITAN / XL</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weclothx.myshopify.com/products/8803094331678</id>
+    <published>2023-10-03T07:26:57+05:30</published>
+    <updated>2023-10-03T07:26:57+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/mens-solid-fleece-hoodies"/>
+    <title>Men&apos;s Solid Fleece Hoodies</title>
+    <s:type>HOODIES</s:type>
+    <s:vendor>CLOTH X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0837/7031/0942/products/8271133251.jpg?v=1696298218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLOTH X<br>
+        <strong>Type: </strong>HOODIES<br>
+        <strong>Price: </strong>
+            1000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Product Name: Men's Solid Fleece Hoodies
+Package Contains: It has 1 Hoodies
+Fabric: Fleece
+Color: White
+Pattern: Solid
+Fit: Regular
+Sleeves Type: Full Sleeves
+Neck Type: Hood
+Length (in Inches): 27
+Closure: Others
+Occasion: Casual
+Combo: Pack of 1
+Ideal For: Men
+Weight: 700</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803094331678</id>
+      <title>M</title>
+      <s:price currency="INR">1000.00</s:price>
+      <s:sku>6977176536</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803094331678</id>
+      <title>L</title>
+      <s:price currency="INR">1000.00</s:price>
+      <s:sku>6397134500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803094331678</id>
+      <title>XL</title>
+      <s:price currency="INR">1000.00</s:price>
+      <s:sku>8182516909</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803094331678</id>
+      <title>XXL</title>
+      <s:price currency="INR">1000.00</s:price>
+      <s:sku>8313961794</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weclothx.myshopify.com/products/8803093807390</id>
+    <published>2023-10-03T07:25:55+05:30</published>
+    <updated>2023-10-03T07:25:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/trendy-mens-casual-shoes"/>
+    <title>PUMA UNISEX SHOES</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CLOTH X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0837/7031/0942/products/5881723577.jpg?v=1696298155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CLOTH X<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            1000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Product Name:PUMA UNISEX SHOES</p>
+<p>Package Contains: It Has 1 Piece Of Mens Shoes</p>
+<p>UK/IND Size (In MM):</p>
+<p>UK/ IND 6 US Size: US / 7 Euro Size: EUR / 40</p>
+<p>Outer Material: Synthetic Sole Material:</p>
+<p>PVC Color: White Closure:</p>
+<p>Laces Combo: Pack of 1 Ocassion:</p>
+<p>Casual Weight: 400</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803093807390</id>
+      <title>6</title>
+      <s:price currency="INR">1000.00</s:price>
+      <s:sku>6290807160</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803093807390</id>
+      <title>7</title>
+      <s:price currency="INR">1000.00</s:price>
+      <s:sku>7871579840</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803093807390</id>
+      <title>8</title>
+      <s:price currency="INR">1000.00</s:price>
+      <s:sku>5193210601</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803093807390</id>
+      <title>9</title>
+      <s:price currency="INR">1000.00</s:price>
+      <s:sku>6569563998</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weclothx.myshopify.com/products/8803093807390</id>
+      <title>10</title>
+      <s:price currency="INR">1000.00</s:price>
+      <s:sku>7969771726</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
