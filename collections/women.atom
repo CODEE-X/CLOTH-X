@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>https://weclothx.myshopify.com/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="https://weclothx.myshopify.com/collections/women.atom"/>
+  <id>CART TO BE DONE 2collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="CART TO BE DONE 2collections/all"/>
+  <link rel="self" type="application/atom+xml" href="CART TO BE DONE 2collections/women.atom"/>
   <title>CLOTH X</title>
   <updated>2023-10-13T13:47:18+05:30</updated>
   <author>
     <name>CLOTH X</name>
   </author>
   <entry>
-    <id>https://weclothx.myshopify.com/products/8825352814878</id>
+    <id>CART TO BE DONE 2products/8825352814878</id>
     <published>2023-10-13T13:47:18+05:30</published>
     <updated>2023-10-13T13:47:18+05:30</updated>
-    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/women-printed-round-neck-pure-cotton-black-t-shirt"/>
+    <link rel="alternate" type="text/html" href="CART TO BE DONE 2products/women-printed-round-neck-pure-cotton-black-t-shirt"/>
     <title>Women Printed Round Neck Pure Cotton Black T-Shirt</title>
     <s:type>T SHIRTS</s:type>
     <s:vendor>CLOTH X</s:vendor>
@@ -38,28 +38,28 @@
     </summary>
     <s:tag>TSHIRT</s:tag>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8825352814878</id>
+      <id>CART TO BE DONE 2products/8825352814878</id>
       <title>S</title>
       <s:price currency="INR">599.00</s:price>
       <s:sku></s:sku>
       <s:grams>300</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8825352814878</id>
+      <id>CART TO BE DONE 2products/8825352814878</id>
       <title>M</title>
       <s:price currency="INR">599.00</s:price>
       <s:sku></s:sku>
       <s:grams>300</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8825352814878</id>
+      <id>CART TO BE DONE 2products/8825352814878</id>
       <title>L</title>
       <s:price currency="INR">599.00</s:price>
       <s:sku></s:sku>
       <s:grams>300</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8825352814878</id>
+      <id>CART TO BE DONE 2products/8825352814878</id>
       <title>XL</title>
       <s:price currency="INR">599.00</s:price>
       <s:sku></s:sku>
@@ -67,10 +67,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://weclothx.myshopify.com/products/8806937985310</id>
+    <id>CART TO BE DONE 2products/8806937985310</id>
     <published>2023-10-04T13:07:51+05:30</published>
     <updated>2023-10-04T13:07:51+05:30</updated>
-    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/fearless-hoodies-unisex-hoodies"/>
+    <link rel="alternate" type="text/html" href="CART TO BE DONE 2products/fearless-hoodies-unisex-hoodies"/>
     <title>FEARLESS HOODIES || UNISEX HOODIES ||</title>
     <s:type>HOODIES</s:type>
     <s:vendor>CLOTH X</s:vendor>
@@ -108,28 +108,28 @@
     <s:tag>HUDIE</s:tag>
     <s:tag>HUDIES</s:tag>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8806937985310</id>
+      <id>CART TO BE DONE 2products/8806937985310</id>
       <title>S</title>
       <s:price currency="INR">1499.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8806937985310</id>
+      <id>CART TO BE DONE 2products/8806937985310</id>
       <title>M</title>
       <s:price currency="INR">1499.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8806937985310</id>
+      <id>CART TO BE DONE 2products/8806937985310</id>
       <title>L</title>
       <s:price currency="INR">1499.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8806937985310</id>
+      <id>CART TO BE DONE 2products/8806937985310</id>
       <title>XL</title>
       <s:price currency="INR">1499.00</s:price>
       <s:sku></s:sku>
@@ -137,10 +137,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://weclothx.myshopify.com/products/8806923206942</id>
+    <id>CART TO BE DONE 2products/8806923206942</id>
     <published>2023-10-04T13:01:19+05:30</published>
     <updated>2023-10-04T13:01:19+05:30</updated>
-    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/los-angeles-hoodies-sweatshirt-for-unisex-unisex-hoodie"/>
+    <link rel="alternate" type="text/html" href="CART TO BE DONE 2products/los-angeles-hoodies-sweatshirt-for-unisex-unisex-hoodie"/>
     <title>LOS ANGELES Hoodies ||Sweatshirt for Unisex || Unisex Hoodie</title>
     <s:type>HOODIES</s:type>
     <s:vendor>CLOTH X</s:vendor>
@@ -178,35 +178,35 @@
     <s:tag>HUDIE</s:tag>
     <s:tag>HUDIES</s:tag>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8806923206942</id>
+      <id>CART TO BE DONE 2products/8806923206942</id>
       <title>S</title>
       <s:price currency="INR">899.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8806923206942</id>
+      <id>CART TO BE DONE 2products/8806923206942</id>
       <title>M</title>
       <s:price currency="INR">899.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8806923206942</id>
+      <id>CART TO BE DONE 2products/8806923206942</id>
       <title>L</title>
       <s:price currency="INR">899.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8806923206942</id>
+      <id>CART TO BE DONE 2products/8806923206942</id>
       <title>XL</title>
       <s:price currency="INR">899.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8806923206942</id>
+      <id>CART TO BE DONE 2products/8806923206942</id>
       <title>XXL</title>
       <s:price currency="INR">899.00</s:price>
       <s:sku></s:sku>
@@ -214,10 +214,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://weclothx.myshopify.com/products/8806882869534</id>
+    <id>CART TO BE DONE 2products/8806882869534</id>
     <published>2023-10-04T12:39:08+05:30</published>
     <updated>2023-10-04T12:39:08+05:30</updated>
-    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/crazymonk-tokyo-revengers-tokyo-manji-uniform-unisex-anime-hoodie"/>
+    <link rel="alternate" type="text/html" href="CART TO BE DONE 2products/crazymonk-tokyo-revengers-tokyo-manji-uniform-unisex-anime-hoodie"/>
     <title>crazymonk Tokyo Revengers Tokyo Manji Uniform Unisex Anime Hoodie</title>
     <s:type>HOODIES</s:type>
     <s:vendor>CLOTH X</s:vendor>
@@ -258,35 +258,35 @@
     <s:tag>HUDIE</s:tag>
     <s:tag>HUDIES</s:tag>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8806882869534</id>
+      <id>CART TO BE DONE 2products/8806882869534</id>
       <title>S</title>
       <s:price currency="INR">1500.00</s:price>
       <s:sku>10</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8806882869534</id>
+      <id>CART TO BE DONE 2products/8806882869534</id>
       <title>M</title>
       <s:price currency="INR">1500.00</s:price>
       <s:sku>11</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8806882869534</id>
+      <id>CART TO BE DONE 2products/8806882869534</id>
       <title>L</title>
       <s:price currency="INR">1500.00</s:price>
       <s:sku>12</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8806882869534</id>
+      <id>CART TO BE DONE 2products/8806882869534</id>
       <title>XL</title>
       <s:price currency="INR">1500.00</s:price>
       <s:sku>13</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8806882869534</id>
+      <id>CART TO BE DONE 2products/8806882869534</id>
       <title>XXL</title>
       <s:price currency="INR">1500.00</s:price>
       <s:sku>14</s:sku>
@@ -294,10 +294,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://weclothx.myshopify.com/products/8803706962206</id>
+    <id>CART TO BE DONE 2products/8803706962206</id>
     <published>2023-10-03T13:35:27+05:30</published>
     <updated>2023-10-03T13:35:27+05:30</updated>
-    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/tenebrose-anime-t-shirt"/>
+    <link rel="alternate" type="text/html" href="CART TO BE DONE 2products/tenebrose-anime-t-shirt"/>
     <title>Tenebrose Anime T Shirt</title>
     <s:type>T SHIRTS</s:type>
     <s:vendor>CLOTH X</s:vendor>
@@ -325,28 +325,28 @@
     <s:tag>T SHIRT</s:tag>
     <s:tag>TSHIRT</s:tag>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8803706962206</id>
+      <id>CART TO BE DONE 2products/8803706962206</id>
       <title>S</title>
       <s:price currency="INR">800.00</s:price>
       <s:sku></s:sku>
       <s:grams>100</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8803706962206</id>
+      <id>CART TO BE DONE 2products/8803706962206</id>
       <title>M</title>
       <s:price currency="INR">800.00</s:price>
       <s:sku></s:sku>
       <s:grams>100</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8803706962206</id>
+      <id>CART TO BE DONE 2products/8803706962206</id>
       <title>L</title>
       <s:price currency="INR">800.00</s:price>
       <s:sku></s:sku>
       <s:grams>100</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8803706962206</id>
+      <id>CART TO BE DONE 2products/8803706962206</id>
       <title>XL</title>
       <s:price currency="INR">800.00</s:price>
       <s:sku></s:sku>

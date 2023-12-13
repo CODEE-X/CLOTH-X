@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>https://weclothx.myshopify.com/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="https://weclothx.myshopify.com/collections/shoes.atom"/>
+  <id>CART TO BE DONE 2collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="CART TO BE DONE 2collections/all"/>
+  <link rel="self" type="application/atom+xml" href="CART TO BE DONE 2collections/shoes.atom"/>
   <title>CLOTH X</title>
   <updated>2023-10-03T07:25:55+05:30</updated>
   <author>
     <name>CLOTH X</name>
   </author>
   <entry>
-    <id>https://weclothx.myshopify.com/products/8803093807390</id>
+    <id>CART TO BE DONE 2products/8803093807390</id>
     <published>2023-10-03T07:25:55+05:30</published>
     <updated>2023-10-03T07:25:55+05:30</updated>
-    <link rel="alternate" type="text/html" href="https://weclothx.myshopify.com/products/trendy-mens-casual-shoes"/>
+    <link rel="alternate" type="text/html" href="CART TO BE DONE 2products/trendy-mens-casual-shoes"/>
     <title>PUMA UNISEX SHOES</title>
     <s:type>SHOES</s:type>
     <s:vendor>CLOTH X</s:vendor>
@@ -44,35 +44,35 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8803093807390</id>
+      <id>CART TO BE DONE 2products/8803093807390</id>
       <title>6</title>
       <s:price currency="INR">1000.00</s:price>
       <s:sku>6290807160</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8803093807390</id>
+      <id>CART TO BE DONE 2products/8803093807390</id>
       <title>7</title>
       <s:price currency="INR">1000.00</s:price>
       <s:sku>7871579840</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8803093807390</id>
+      <id>CART TO BE DONE 2products/8803093807390</id>
       <title>8</title>
       <s:price currency="INR">1000.00</s:price>
       <s:sku>5193210601</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8803093807390</id>
+      <id>CART TO BE DONE 2products/8803093807390</id>
       <title>9</title>
       <s:price currency="INR">1000.00</s:price>
       <s:sku>6569563998</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://weclothx.myshopify.com/products/8803093807390</id>
+      <id>CART TO BE DONE 2products/8803093807390</id>
       <title>10</title>
       <s:price currency="INR">1000.00</s:price>
       <s:sku>7969771726</s:sku>
