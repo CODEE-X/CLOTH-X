@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>CART TO BE DONE 2collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="CART TO BE DONE 2collections/all"/>
-  <link rel="self" type="application/atom+xml" href="CART TO BE DONE 2collections/hoodies.atom"/>
+  <id>LIKNK FOR CART collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="LIKNK FOR CART collections/all"/>
+  <link rel="self" type="application/atom+xml" href="LIKNK FOR CART collections/hoodies.atom"/>
   <title>CLOTH X</title>
   <updated>2023-10-04T13:07:51+05:30</updated>
   <author>
     <name>CLOTH X</name>
   </author>
   <entry>
-    <id>CART TO BE DONE 2products/8806937985310</id>
+    <id>LIKNK FOR CART products/8806937985310</id>
     <published>2023-10-04T13:07:51+05:30</published>
     <updated>2023-10-04T13:07:51+05:30</updated>
-    <link rel="alternate" type="text/html" href="CART TO BE DONE 2products/fearless-hoodies-unisex-hoodies"/>
+    <link rel="alternate" type="text/html" href="LIKNK FOR CART products/fearless-hoodies-unisex-hoodies"/>
     <title>FEARLESS HOODIES || UNISEX HOODIES ||</title>
     <s:type>HOODIES</s:type>
     <s:vendor>CLOTH X</s:vendor>
@@ -50,28 +50,28 @@
     <s:tag>HUDIE</s:tag>
     <s:tag>HUDIES</s:tag>
     <s:variant>
-      <id>CART TO BE DONE 2products/8806937985310</id>
+      <id>LIKNK FOR CART products/8806937985310</id>
       <title>S</title>
       <s:price currency="INR">1499.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>CART TO BE DONE 2products/8806937985310</id>
+      <id>LIKNK FOR CART products/8806937985310</id>
       <title>M</title>
       <s:price currency="INR">1499.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>CART TO BE DONE 2products/8806937985310</id>
+      <id>LIKNK FOR CART products/8806937985310</id>
       <title>L</title>
       <s:price currency="INR">1499.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>CART TO BE DONE 2products/8806937985310</id>
+      <id>LIKNK FOR CART products/8806937985310</id>
       <title>XL</title>
       <s:price currency="INR">1499.00</s:price>
       <s:sku></s:sku>
@@ -79,10 +79,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>CART TO BE DONE 2products/8806923206942</id>
+    <id>LIKNK FOR CART products/8806923206942</id>
     <published>2023-10-04T13:01:19+05:30</published>
     <updated>2023-10-04T13:01:19+05:30</updated>
-    <link rel="alternate" type="text/html" href="CART TO BE DONE 2products/los-angeles-hoodies-sweatshirt-for-unisex-unisex-hoodie"/>
+    <link rel="alternate" type="text/html" href="LIKNK FOR CART products/los-angeles-hoodies-sweatshirt-for-unisex-unisex-hoodie"/>
     <title>LOS ANGELES Hoodies ||Sweatshirt for Unisex || Unisex Hoodie</title>
     <s:type>HOODIES</s:type>
     <s:vendor>CLOTH X</s:vendor>
@@ -120,35 +120,35 @@
     <s:tag>HUDIE</s:tag>
     <s:tag>HUDIES</s:tag>
     <s:variant>
-      <id>CART TO BE DONE 2products/8806923206942</id>
+      <id>LIKNK FOR CART products/8806923206942</id>
       <title>S</title>
       <s:price currency="INR">899.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>CART TO BE DONE 2products/8806923206942</id>
+      <id>LIKNK FOR CART products/8806923206942</id>
       <title>M</title>
       <s:price currency="INR">899.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>CART TO BE DONE 2products/8806923206942</id>
+      <id>LIKNK FOR CART products/8806923206942</id>
       <title>L</title>
       <s:price currency="INR">899.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>CART TO BE DONE 2products/8806923206942</id>
+      <id>LIKNK FOR CART products/8806923206942</id>
       <title>XL</title>
       <s:price currency="INR">899.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>CART TO BE DONE 2products/8806923206942</id>
+      <id>LIKNK FOR CART products/8806923206942</id>
       <title>XXL</title>
       <s:price currency="INR">899.00</s:price>
       <s:sku></s:sku>
@@ -156,10 +156,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>CART TO BE DONE 2products/8806908002590</id>
+    <id>LIKNK FOR CART products/8806908002590</id>
     <published>2023-10-04T12:54:21+05:30</published>
     <updated>2023-10-04T12:54:21+05:30</updated>
-    <link rel="alternate" type="text/html" href="CART TO BE DONE 2products/men-printed-hooded-neck-cotton-blend-white-black-t-shirt"/>
+    <link rel="alternate" type="text/html" href="LIKNK FOR CART products/men-printed-hooded-neck-cotton-blend-white-black-t-shirt"/>
     <title>Men Printed Hooded Neck Cotton Blend White, Black T-Shirt</title>
     <s:type>HOODIES</s:type>
     <s:vendor>CLOTH X</s:vendor>
@@ -212,28 +212,28 @@
     <s:tag>HUDIE</s:tag>
     <s:tag>HUDIES</s:tag>
     <s:variant>
-      <id>CART TO BE DONE 2products/8806908002590</id>
+      <id>LIKNK FOR CART products/8806908002590</id>
       <title>S</title>
       <s:price currency="INR">500.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>CART TO BE DONE 2products/8806908002590</id>
+      <id>LIKNK FOR CART products/8806908002590</id>
       <title>M</title>
       <s:price currency="INR">500.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>CART TO BE DONE 2products/8806908002590</id>
+      <id>LIKNK FOR CART products/8806908002590</id>
       <title>L</title>
       <s:price currency="INR">500.00</s:price>
       <s:sku></s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>CART TO BE DONE 2products/8806908002590</id>
+      <id>LIKNK FOR CART products/8806908002590</id>
       <title>XL</title>
       <s:price currency="INR">500.00</s:price>
       <s:sku></s:sku>
@@ -241,10 +241,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>CART TO BE DONE 2products/8806882869534</id>
+    <id>LIKNK FOR CART products/8806882869534</id>
     <published>2023-10-04T12:39:08+05:30</published>
     <updated>2023-10-04T12:39:08+05:30</updated>
-    <link rel="alternate" type="text/html" href="CART TO BE DONE 2products/crazymonk-tokyo-revengers-tokyo-manji-uniform-unisex-anime-hoodie"/>
+    <link rel="alternate" type="text/html" href="LIKNK FOR CART products/crazymonk-tokyo-revengers-tokyo-manji-uniform-unisex-anime-hoodie"/>
     <title>crazymonk Tokyo Revengers Tokyo Manji Uniform Unisex Anime Hoodie</title>
     <s:type>HOODIES</s:type>
     <s:vendor>CLOTH X</s:vendor>
@@ -285,35 +285,35 @@
     <s:tag>HUDIE</s:tag>
     <s:tag>HUDIES</s:tag>
     <s:variant>
-      <id>CART TO BE DONE 2products/8806882869534</id>
+      <id>LIKNK FOR CART products/8806882869534</id>
       <title>S</title>
       <s:price currency="INR">1500.00</s:price>
       <s:sku>10</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>CART TO BE DONE 2products/8806882869534</id>
+      <id>LIKNK FOR CART products/8806882869534</id>
       <title>M</title>
       <s:price currency="INR">1500.00</s:price>
       <s:sku>11</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>CART TO BE DONE 2products/8806882869534</id>
+      <id>LIKNK FOR CART products/8806882869534</id>
       <title>L</title>
       <s:price currency="INR">1500.00</s:price>
       <s:sku>12</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>CART TO BE DONE 2products/8806882869534</id>
+      <id>LIKNK FOR CART products/8806882869534</id>
       <title>XL</title>
       <s:price currency="INR">1500.00</s:price>
       <s:sku>13</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>CART TO BE DONE 2products/8806882869534</id>
+      <id>LIKNK FOR CART products/8806882869534</id>
       <title>XXL</title>
       <s:price currency="INR">1500.00</s:price>
       <s:sku>14</s:sku>
@@ -321,10 +321,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>CART TO BE DONE 2products/8803094331678</id>
+    <id>LIKNK FOR CART products/8803094331678</id>
     <published>2023-10-03T07:26:57+05:30</published>
     <updated>2023-10-03T07:26:57+05:30</updated>
-    <link rel="alternate" type="text/html" href="CART TO BE DONE 2products/mens-solid-fleece-hoodies"/>
+    <link rel="alternate" type="text/html" href="LIKNK FOR CART products/mens-solid-fleece-hoodies"/>
     <title>Men&apos;s Solid Fleece Hoodies</title>
     <s:type>HOODIES</s:type>
     <s:vendor>CLOTH X</s:vendor>
@@ -362,28 +362,28 @@ Weight: 700</td>
 ]]>
     </summary>
     <s:variant>
-      <id>CART TO BE DONE 2products/8803094331678</id>
+      <id>LIKNK FOR CART products/8803094331678</id>
       <title>M</title>
       <s:price currency="INR">1000.00</s:price>
       <s:sku>6977176536</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>CART TO BE DONE 2products/8803094331678</id>
+      <id>LIKNK FOR CART products/8803094331678</id>
       <title>L</title>
       <s:price currency="INR">1000.00</s:price>
       <s:sku>6397134500</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>CART TO BE DONE 2products/8803094331678</id>
+      <id>LIKNK FOR CART products/8803094331678</id>
       <title>XL</title>
       <s:price currency="INR">1000.00</s:price>
       <s:sku>8182516909</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
     <s:variant>
-      <id>CART TO BE DONE 2products/8803094331678</id>
+      <id>LIKNK FOR CART products/8803094331678</id>
       <title>XXL</title>
       <s:price currency="INR">1000.00</s:price>
       <s:sku>8313961794</s:sku>
